@@ -1,0 +1,40 @@
+_repo: Salojen-elamaa_74312
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Soini, Lauri
+    aliases:
+    - Ahava, Juho
+    - Soininen, L.
+    - Sauramo, Lauri
+    birthdate: 1875
+    deathdate: 1919
+    gutenberg_agent_id: '42573'
+    url: http://www.gutenberg.org/2009/agents/42573
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/Lauri_Soini
+    - https://en.wikipedia.org/wiki/Lauri_Soininen
+description: ''
+gutenberg_issued: '2024-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74312'
+language: fi
+pgterms:marc905: 20240801104143soini
+pgterms:marc906: '1905'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Finnish'
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Karhivaaran Ontrei -- Rosvo Komulainen -- Töyrentuulastus -- Valheen
+  apostoli -- Kertomus isännästä, joka ei pyhittänyt sapattia -- Tanu ja Tommi --
+  Taakki ja Riitta.
+title: Salojen elämää
+url: http://www.gutenberg.org/ebooks/74312
